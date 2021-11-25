@@ -10,8 +10,9 @@ Android developer，I'm stack
 - flutter(dart)
 
 <!--
-
 ### Github State
 ![github stats](https://github-readme-stats.vercel.app/api?username=yanchunlan&show_icons=true&theme=radical)
-
 -->
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanchunlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
